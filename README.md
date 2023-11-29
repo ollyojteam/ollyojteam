@@ -1,1 +1,1 @@
-- 👋 Hi, We are Ollyo Joomla Team
+👋 Hi, We are Ollyo Joomla Team
